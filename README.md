@@ -75,7 +75,7 @@
 ```text
 MIT License
 
-Copyright (c) <年份> <你的名字或 GitHub 用户名>
+Copyright (c) 2026 HA0329
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -149,8 +149,8 @@ SOFTWARE.
 
 如果您是版权持有人、商标持有人或授权代理人，认为本仓库中的内容侵犯了您的权利，请通过以下方式联系：
 
-- 邮箱：`<2669837548@qq.com>`
-- GitHub Issue：`<你的仓库 Issues 链接>`
+- 邮箱：2669837548@qq.com
+- GitHub Issue：https://github.com/HA0329/A-Programming-Paradigm-for-Spatiotemporal-Composability
 
 请在通知中包含：
 
@@ -191,10 +191,9 @@ Cordis 处于活跃开发阶段，API 可能随时变更，本仓库中的示例
 
 ## 八、联系方式
 
-- 维护者：`<HA0329>`
-- 邮箱：`<2669837548@qq.com>`
-- 本仓库 Issues：`<你的仓库 Issues 链接>`
-
+- 维护者：HA0329
+- 邮箱：2669837548@qq.com
+- 本仓库 Issues：https://github.com/HA0329/A-Programming-Paradigm-for-Spatiotemporal-Composability
 ---
 
 **最后更新：`<2026-9-30>`**
